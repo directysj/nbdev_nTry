@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_nTry"
+  site-url: "https://directysj.github.io/nbdev_nTry"
+  description: "My first interaction with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/directysj/nbdev_nTry"
